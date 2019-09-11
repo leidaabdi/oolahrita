@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nohwahcham.re-teaching.org/sitemap.xml
